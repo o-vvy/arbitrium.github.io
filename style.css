@@ -1,0 +1,22 @@
+
+p1 {
+  color: whitesmoke;
+  display: inline;
+  font-style: normal;
+  font-size: 60px;
+  font-weight: normal;
+}
+body {
+  background:url(https://i.pinimg.com/originals/9c/43/fe/9c43fe86ddb72f4ef396427637aadc54.jpg) no-repeat center center fixed;
+  background-size: cover;
+  
+}
+image{
+  border-style: solid;
+  border-width: 10px;
+  border-color: whitesmoke
+}
+
+p {
+  color: transparent
+}
